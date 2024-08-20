@@ -18,7 +18,7 @@
 
 .header-logo-image {
     max-height: 20dvw;
-    max-width: 40dvw;
+    max-width: 20dvmin;
     overflow: visible;
     stroke-linecap: round;
     stroke-width: 0;
