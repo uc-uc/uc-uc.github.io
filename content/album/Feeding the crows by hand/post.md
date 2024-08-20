@@ -9,7 +9,7 @@ summary: ''
 ---
 Our live performance album, recorded at Yuva, one of the most special venues in Kadıköy, at Karga, has been released.
 
-You can listen to "Feeding the Crows by the Hand" on Spotify and other platforms.
+You can listen to "Feeding the crows by hand" on Spotify and other platforms.
 
 As always, it's hard to define the genre of the album. It's the result of a mutual conversation and understanding. The music was composed and recorded on the spot as an improvisation. So, everything you see and hear in this performance is created and performed 'right then and there.' It cannot be repeated and could not have been predicted beforehand. We think that music thrives when no one knows anything about it beforehand.
 
