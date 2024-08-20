@@ -14,32 +14,11 @@
         <category>concert</category>
         <category>performance</category>
         <category>single</category>
-        <lastBuildDate>Tue, 20 Aug 2024 19:44:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 19:58:23 GMT</lastBuildDate>
         <copyright>All rights reserved 2024, Uç! Uç!</copyright>
         <docs>https://www.rssboard.org/rss-specification</docs>
         <generator>writ-cms</generator>
         <atom:link href="https://ucuc.info/feed.xml" rel="self" type="application/rss+xml" />
-        <item>
-            <title><![CDATA[Karga Fest]]></title>
-            <link>https://ucuc.info/concert/karga-fest</link>
-            <guid>https://ucuc.info/concert/karga-fest</guid>
-            <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[]]></description>
-            <content:encoded><![CDATA[
-      <div><img src="https://ucuc.info/concert/karga-fest/karga.jpg" alt="undefined"></div>
-      <p>Early New Year Festival at Karga Kadıköy - December 28th  </p>
-<p>We’re thrilled to invite you to our Early New Year Festival on December 28th at Karga Kadıköy! We’re a group of friends who’ve put together something really special, and we’d love for you to be a part of it.   </p>
-<p>Uç Uç will kick things off with some amazing tunes.  </p>
-<p>Upstairs is Boiling, and the energy is going to be.. hmm, expect the unexpected. </p>
-<p>Şu Güzel İnsanlar will bring some chill vibes with their soothing melodies.  </p>
-<p>Erdem, Özün, and Ozan will close the night with an epic drum trio performance.  </p>
-<p>And just when you think the night is winding down, we’ll keep the energy high with a DJ set that’ll keep you dancing until the very end!  </p>
-<p>Downstairs, our friends will be showcasing and selling their handmade creations, so it’s a great chance to support local artists and find something unique.  </p>
-<p>We’ve put our hearts into organizing this festival, and we’re making sure it’s going to be an amazing night full of great music, creativity, and positive vibes.   </p>
-<p>So mark your calendars for December 28th, and come celebrate with us at Karga Kadıköy! We can’t wait to see you there!  </p>
-
-    ]]></content:encoded>
-        </item>
         <item>
             <title><![CDATA[Feeding the crows by hand]]></title>
             <link>https://ucuc.info/album/feeding-the-crows-by-hand</link>
@@ -75,6 +54,27 @@
 <p>Illustration for the intro: MRE<br>Animation for the intro: Utku Namlıses  </p>
 <p>KARGA:<br>Ümit Üret<br>Ayberk Fişek  </p>
 ]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Karga Fest]]></title>
+            <link>https://ucuc.info/concert/karga-fest</link>
+            <guid>https://ucuc.info/concert/karga-fest</guid>
+            <pubDate>Sat, 27 Jul 2024 23:00:00 GMT</pubDate>
+            <description><![CDATA[]]></description>
+            <content:encoded><![CDATA[
+      <div><img src="https://ucuc.info/concert/karga-fest/karga.jpg" alt="undefined"></div>
+      <p>Early New Year Festival at Karga Kadıköy - December 28th  </p>
+<p>We’re thrilled to invite you to our Early New Year Festival on December 28th at Karga Kadıköy! We’re a group of friends who’ve put together something really special, and we’d love for you to be a part of it.   </p>
+<p>Uç Uç will kick things off with some amazing tunes.  </p>
+<p>Upstairs is Boiling, and the energy is going to be.. hmm, expect the unexpected. </p>
+<p>Şu Güzel İnsanlar will bring some chill vibes with their soothing melodies.  </p>
+<p>Erdem, Özün, and Ozan will close the night with an epic drum trio performance.  </p>
+<p>And just when you think the night is winding down, we’ll keep the energy high with a DJ set that’ll keep you dancing until the very end!  </p>
+<p>Downstairs, our friends will be showcasing and selling their handmade creations, so it’s a great chance to support local artists and find something unique.  </p>
+<p>We’ve put our hearts into organizing this festival, and we’re making sure it’s going to be an amazing night full of great music, creativity, and positive vibes.   </p>
+<p>So mark your calendars for December 28th, and come celebrate with us at Karga Kadıköy! We can’t wait to see you there!  </p>
+
+    ]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Mona]]></title>

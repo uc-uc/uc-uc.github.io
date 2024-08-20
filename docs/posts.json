@@ -1,56 +1,5 @@
 [
   {
-    "type": "text",
-    "title": "Karga Fest",
-    "cover": "/concert/karga-fest/karga.jpg",
-    "media": "",
-    "summary": "",
-    "tags": [],
-    "date": "12.28.2024",
-    "backgroundColor": "#1f1c19",
-    "textColor": "#faead6",
-    "accentColor": "palevioletred",
-    "slug": "karga-fest",
-    "permalink": "/concert/karga-fest",
-    "category": {
-      "type": "basic",
-      "name": "concert",
-      "content": "",
-      "summary": "",
-      "mentions": [],
-      "plural": "concerts",
-      "singular": "concert",
-      "slug": "concert",
-      "permalink": "/concert",
-      "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
-      "localAssets": []
-    },
-    "path": "concert/Karga Fest/post.md",
-    "handle": "concert/Karga Fest",
-    "foldered": true,
-    "localAssets": [
-      {
-        "name": "karga.jpg",
-        "path": "concert/Karga Fest/karga.jpg",
-        "depth": 2,
-        "extension": ".jpg",
-        "isFolder": false,
-        "type": "localAsset"
-      }
-    ],
-    "publishDate": "2024-12-28T00:00:00.000Z",
-    "publishDateUTC": "Sat, 28 Dec 2024 00:00:00 GMT",
-    "publishDateFull": "Saturday, December 28, 2024",
-    "publishDateLong": "December 28, 2024",
-    "publishDateMedium": "Dec 28, 2024",
-    "publishDateShort": "12/28/24",
-    "links": {
-      "relevantPosts": [],
-      "mentionedTo": [],
-      "mentionedBy": []
-    }
-  },
-  {
     "type": "album",
     "title": "Feeding the crows by hand",
     "cover": "/album/feeding-the-crows-by-hand/kapak.png",
@@ -195,6 +144,57 @@
     "publishDateLong": "August 15, 2024",
     "publishDateMedium": "Aug 15, 2024",
     "publishDateShort": "8/15/24",
+    "links": {
+      "relevantPosts": [],
+      "mentionedTo": [],
+      "mentionedBy": []
+    }
+  },
+  {
+    "type": "text",
+    "title": "Karga Fest",
+    "cover": "/concert/karga-fest/karga.jpg",
+    "media": "",
+    "summary": "",
+    "tags": [],
+    "date": "07.28.2024",
+    "backgroundColor": "#4f1519",
+    "textColor": "#faead6",
+    "accentColor": "palevioletred",
+    "slug": "karga-fest",
+    "permalink": "/concert/karga-fest",
+    "category": {
+      "type": "basic",
+      "name": "concert",
+      "content": "",
+      "summary": "",
+      "mentions": [],
+      "plural": "concerts",
+      "singular": "concert",
+      "slug": "concert",
+      "permalink": "/concert",
+      "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
+      "localAssets": []
+    },
+    "path": "concert/Karga Fest/post.md",
+    "handle": "concert/Karga Fest",
+    "foldered": true,
+    "localAssets": [
+      {
+        "name": "karga.jpg",
+        "path": "concert/Karga Fest/karga.jpg",
+        "depth": 2,
+        "extension": ".jpg",
+        "isFolder": false,
+        "type": "localAsset"
+      }
+    ],
+    "publishDate": "2024-07-27T23:00:00.000Z",
+    "publishDateUTC": "Sat, 27 Jul 2024 23:00:00 GMT",
+    "publishDateFull": "Sunday, July 28, 2024",
+    "publishDateLong": "July 28, 2024",
+    "publishDateMedium": "Jul 28, 2024",
+    "publishDateShort": "7/28/24",
     "links": {
       "relevantPosts": [],
       "mentionedTo": [],
