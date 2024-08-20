@@ -24,4 +24,8 @@ Downstairs, our friends will be showcasing and selling their handmade creations,
 
 We’ve put our hearts into organizing this festival, and we’re making sure it’s going to be an amazing night full of great music, creativity, and positive vibes.   
 
-So mark your calendars for December 28th, and come celebrate with us at Karga Kadıköy! We can’t wait to see you there!  
+So mark your calendars for December 28th, and come celebrate with us at Karga Kadıköy!
+
+We can’t wait to see you there! 
+
+Hugs <3 Uç! Uç!

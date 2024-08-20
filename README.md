@@ -1,6 +1,6 @@
-# Upstairs is boiling
+# Uç! Uç!
 
-Welcome to the source repository of <a href="https://upstairsisboiling.com">Upstairs is boiling website</a>.
+Welcome to the source repository of <a href="https://ucuc.info">Uç! Uç! website</a>.
 
 <details>
 <summary><h2>Installation</h2></summary>
@@ -15,10 +15,10 @@ Welcome to the source repository of <a href="https://upstairsisboiling.com">Upst
 
 ```sh
 # Clone the repo
-git clone git@github.com:upstairsisboiling/upstairsisboiling.github.io.git
+git clone git@github.com:uc-uc/uc-uc.github.io.git
 
 # Navigate to project directory
-cd upstairsisboiling.github.io
+cd uc-uc.github.io
 
 # Install project dependencies
 npm install 
