@@ -1,5 +1,5 @@
 ---
-date: 08.08.2024
+date: 08.15.2024
 backgroundColor: '#1f1c19'
 textColor: '#faead6'
 accentColor: palevioletred
