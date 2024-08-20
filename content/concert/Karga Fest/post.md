@@ -8,24 +8,22 @@ cover: 'karga.jpg'
 ---
 Early New Year Festival at Karga Kadıköy - December 28th  
 
-We’re thrilled to invite you to our Early New Year Festival on December 28th at Karga Kadıköy! We’re a group of friends who’ve put together something really special, and we’d love for you to be a part of it.   
+We’re thrilled to invite you to our Early New Year Festival on December 28th at Karga Kadıköy! We’re a group of nonsense who’ve put together something really spectacular, and we’d love for you to be a part of it.   
 
-Uç Uç will kick things off with some amazing tunes.  
+Uç Uç will kick things off with some abusement.  
 
-Upstairs is Boiling, and the energy is going to be.. hmm, expect the unexpected. 
+Upstairs is Boiling, and the energy is going to be.. hmm, expect the non-expected. 
 
-Şu Güzel İnsanlar will bring some chill vibes with their soothing melodies.  
+Şu Güzel İnsanlar will bring some chill vibes with their smoothie melodies.  
 
-Erdem, Özün, and Ozan will close the night with an epic drum trio performance.  
+Erdem, Özün, and Ozan will close the night with a seismological drum trio performance.  
 
-And just when you think the night is winding down, we’ll keep the energy high with a DJ set that’ll keep you dancing until the very end!  
+And just when you think the night is winding down, we’ll try and keep the energy low with a DJ set that’ll hurt you to dance until the very end! you know, the very end.  
 
-Downstairs, our friends will be showcasing and selling their handmade creations, so it’s a great chance to support local artists and find something unique.  
+Downstairs, our friends will be begging you to buy their handmade creations, so it’s a great? chance to support local (and nowhere to go) artists and find something probably unique.  
 
-We’ve put our hearts into organizing this festival, and we’re making sure it’s going to be an amazing night full of great music, creativity, and positive vibes.   
+We’ve put our hearts into organizing this festival and only them nothing more.. and we’re making sure it’s going to be an abusing night full of weird music and random shit.   
 
-So mark your calendars for December 28th, and come celebrate with us at Karga Kadıköy!
+So forget about your calendars for December 28th, and if you already have millions of things to attarct you more, and you have none? come celebrate with us at Karga Kadıköy! (lol you're really doing it)
 
-We can’t wait to see you there! 
-
-Hugs <3 Uç! Uç!
+We can’t wait to hug you there!  <3 Uç! Uç!
