@@ -1,5 +1,56 @@
 [
   {
+    "type": "text",
+    "title": "Karga Fest",
+    "cover": "/concert/karga-fest/karga.jpg",
+    "media": "",
+    "summary": "",
+    "tags": [],
+    "date": "12.28.2024",
+    "backgroundColor": "#1f1c19",
+    "textColor": "#faead6",
+    "accentColor": "palevioletred",
+    "slug": "karga-fest",
+    "permalink": "/concert/karga-fest",
+    "category": {
+      "type": "basic",
+      "name": "concert",
+      "content": "",
+      "summary": "",
+      "mentions": [],
+      "plural": "concerts",
+      "singular": "concert",
+      "slug": "concert",
+      "permalink": "/concert",
+      "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
+      "localAssets": []
+    },
+    "path": "concert/Karga Fest/post.md",
+    "handle": "concert/Karga Fest",
+    "foldered": true,
+    "localAssets": [
+      {
+        "name": "karga.jpg",
+        "path": "concert/Karga Fest/karga.jpg",
+        "depth": 2,
+        "extension": ".jpg",
+        "isFolder": false,
+        "type": "localAsset"
+      }
+    ],
+    "publishDate": "2024-12-28T00:00:00.000Z",
+    "publishDateUTC": "Sat, 28 Dec 2024 00:00:00 GMT",
+    "publishDateFull": "Saturday, December 28, 2024",
+    "publishDateLong": "December 28, 2024",
+    "publishDateMedium": "Dec 28, 2024",
+    "publishDateShort": "12/28/24",
+    "links": {
+      "relevantPosts": [],
+      "mentionedTo": [],
+      "mentionedBy": []
+    }
+  },
+  {
     "type": "album",
     "title": "Feeding the crows by hand",
     "cover": "/album/feeding-the-crows-by-hand/kapak.png",
@@ -94,44 +145,6 @@
           "relevancyScore": 3
         }
       ],
-      "mentionedTo": [],
-      "mentionedBy": []
-    }
-  },
-  {
-    "type": "text",
-    "title": "A Concerto",
-    "cover": "",
-    "media": "",
-    "summary": "<p>This is a concert</p>\n<p>Sit sapiente hic quas voluptatum cumque fuga Ratione est eveniet vitae consectetur rem exercitationem labore quisquam Molestiae nam incidunt suscipit sapiente nemo ducimus? Similique explicabo ipsa deserunt repellat est aliquam.</p>\n<p>Sit labore quibusdam iure itaque doloribus? Quaerat necessitatibus dignissimos ad aspernatur animi? Harum fugit sequi rem animi ducimus Eligendi aliquam culpa quos quos officia enim Aspernatur harum facere cumque amet.</p>\n",
-    "tags": [],
-    "slug": "a-concerto",
-    "permalink": "/concert/a-concerto",
-    "category": {
-      "type": "basic",
-      "name": "concert",
-      "content": "",
-      "summary": "",
-      "mentions": [],
-      "plural": "concerts",
-      "singular": "concert",
-      "slug": "concert",
-      "permalink": "/concert",
-      "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
-      "localAssets": []
-    },
-    "path": "concert/A Concerto/post.md",
-    "handle": "concert/A Concerto",
-    "foldered": true,
-    "localAssets": [],
-    "publishDate": "2024-08-16T07:11:56.830Z",
-    "publishDateUTC": "Fri, 16 Aug 2024 07:11:56 GMT",
-    "publishDateFull": "Friday, August 16, 2024",
-    "publishDateLong": "August 16, 2024",
-    "publishDateMedium": "Aug 16, 2024",
-    "publishDateShort": "8/16/24",
-    "links": {
-      "relevantPosts": [],
       "mentionedTo": [],
       "mentionedBy": []
     }
