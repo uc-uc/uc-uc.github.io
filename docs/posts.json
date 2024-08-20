@@ -1,0 +1,522 @@
+[
+  {
+    "type": "album",
+    "title": "Feeding the crows by hand",
+    "cover": "/album/feeding-the-crows-by-hand/kapak.png",
+    "media": "",
+    "summary": "",
+    "tags": [],
+    "coverAlt": "Our live performance album, recorded at Yuva, one of the most special venues in Kadıköy, at Karga, has been released.",
+    "spotify": "https://open.spotify.com/album/3DJeN07ZjtigAbL4D1qOet",
+    "date": "08.18.2024",
+    "slug": "feeding-the-crows-by-hand",
+    "permalink": "/album/feeding-the-crows-by-hand",
+    "category": {
+      "type": "basic",
+      "name": "album",
+      "content": "",
+      "summary": "",
+      "mentions": [],
+      "plural": "albums",
+      "singular": "album",
+      "slug": "album",
+      "permalink": "/album",
+      "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/album/index.html",
+      "localAssets": []
+    },
+    "path": "album/Feeding the crows by hand/post.md",
+    "handle": "album/Feeding the crows by hand",
+    "foldered": true,
+    "localAssets": [
+      {
+        "name": "convergence.jpg",
+        "path": "album/Feeding the crows by hand/convergence.jpg",
+        "depth": 2,
+        "extension": ".jpg",
+        "isFolder": false,
+        "type": "localAsset"
+      },
+      {
+        "name": "kapak.png",
+        "path": "album/Feeding the crows by hand/kapak.png",
+        "depth": 2,
+        "extension": ".png",
+        "isFolder": false,
+        "type": "localAsset"
+      }
+    ],
+    "publishDate": "2024-08-17T23:00:00.000Z",
+    "publishDateUTC": "Sat, 17 Aug 2024 23:00:00 GMT",
+    "publishDateFull": "Sunday, August 18, 2024",
+    "publishDateLong": "August 18, 2024",
+    "publishDateMedium": "Aug 18, 2024",
+    "publishDateShort": "8/18/24",
+    "links": {
+      "previousPost": {
+        "title": "Faerie Journey",
+        "permalink": "/album/faerie-journey"
+      },
+      "relevantPosts": [
+        {
+          "title": "The Constant Fear of Being Judged (By You)",
+          "permalink": "/album/the-constant-fear-of-being-judged-by-you",
+          "category": {
+            "type": "basic",
+            "name": "album",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "albums",
+            "singular": "album",
+            "slug": "album",
+            "permalink": "/album",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/album/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 4
+        },
+        {
+          "title": "Faerie Journey",
+          "permalink": "/album/faerie-journey",
+          "category": {
+            "type": "basic",
+            "name": "album",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "albums",
+            "singular": "album",
+            "slug": "album",
+            "permalink": "/album",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/album/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        }
+      ],
+      "mentionedTo": [],
+      "mentionedBy": []
+    }
+  },
+  {
+    "type": "text",
+    "title": "A Concerto",
+    "cover": "",
+    "media": "",
+    "summary": "<p>This is a concert</p>\n<p>Sit sapiente hic quas voluptatum cumque fuga Ratione est eveniet vitae consectetur rem exercitationem labore quisquam Molestiae nam incidunt suscipit sapiente nemo ducimus? Similique explicabo ipsa deserunt repellat est aliquam.</p>\n<p>Sit labore quibusdam iure itaque doloribus? Quaerat necessitatibus dignissimos ad aspernatur animi? Harum fugit sequi rem animi ducimus Eligendi aliquam culpa quos quos officia enim Aspernatur harum facere cumque amet.</p>\n",
+    "tags": [],
+    "slug": "a-concerto",
+    "permalink": "/concert/a-concerto",
+    "category": {
+      "type": "basic",
+      "name": "concert",
+      "content": "",
+      "summary": "",
+      "mentions": [],
+      "plural": "concerts",
+      "singular": "concert",
+      "slug": "concert",
+      "permalink": "/concert",
+      "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
+      "localAssets": []
+    },
+    "path": "concert/A Concerto/post.md",
+    "handle": "concert/A Concerto",
+    "foldered": true,
+    "localAssets": [],
+    "publishDate": "2024-08-16T07:11:56.830Z",
+    "publishDateUTC": "Fri, 16 Aug 2024 07:11:56 GMT",
+    "publishDateFull": "Friday, August 16, 2024",
+    "publishDateLong": "August 16, 2024",
+    "publishDateMedium": "Aug 16, 2024",
+    "publishDateShort": "8/16/24",
+    "links": {
+      "relevantPosts": [],
+      "mentionedTo": [],
+      "mentionedBy": []
+    }
+  },
+  {
+    "type": "text",
+    "title": "Live at Yuva",
+    "cover": "",
+    "media": "",
+    "summary": "",
+    "tags": [],
+    "date": "08.08.2024",
+    "backgroundColor": "#1f1c19",
+    "textColor": "#faead6",
+    "accentColor": "palevioletred",
+    "youtube": "https://www.youtube.com/watch?v=SP2DSGZjDA8",
+    "slug": "live-at-yuva",
+    "permalink": "/performance/live-at-yuva",
+    "category": {
+      "type": "basic",
+      "name": "performance",
+      "content": "",
+      "summary": "",
+      "mentions": [],
+      "plural": "performances",
+      "singular": "performance",
+      "slug": "performance",
+      "permalink": "/performance",
+      "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/performance/index.html",
+      "localAssets": []
+    },
+    "path": "performance/Live at Yuva/post.md",
+    "handle": "performance/Live at Yuva",
+    "foldered": true,
+    "localAssets": [
+      {
+        "name": "IMG.JPG",
+        "path": "performance/Live at Yuva/IMG.JPG",
+        "depth": 2,
+        "extension": ".JPG",
+        "isFolder": false,
+        "type": "localAsset"
+      }
+    ],
+    "publishDate": "2024-08-07T23:00:00.000Z",
+    "publishDateUTC": "Wed, 07 Aug 2024 23:00:00 GMT",
+    "publishDateFull": "Thursday, August 8, 2024",
+    "publishDateLong": "August 8, 2024",
+    "publishDateMedium": "Aug 8, 2024",
+    "publishDateShort": "8/8/24",
+    "links": {
+      "relevantPosts": [],
+      "mentionedTo": [],
+      "mentionedBy": []
+    }
+  },
+  {
+    "type": "single",
+    "title": "Mona",
+    "cover": "/single/mona/cover.jpg",
+    "media": "",
+    "summary": "",
+    "tags": [],
+    "coverAlt": "Kapak",
+    "spotify": "https://open.spotify.com/track/1Ma4fLShd0hpZSNH37mEkR",
+    "date": "03.21.2024",
+    "textColor": "white",
+    "accentColor": "#fdbe39",
+    "backgroundColor": "rebeccapurple",
+    "slug": "mona",
+    "permalink": "/single/mona",
+    "category": {
+      "type": "basic",
+      "name": "single",
+      "content": "",
+      "summary": "",
+      "mentions": [],
+      "plural": "singles",
+      "singular": "single",
+      "slug": "single",
+      "permalink": "/single",
+      "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/single/index.html",
+      "localAssets": []
+    },
+    "path": "single/Mona/post.md",
+    "handle": "single/Mona",
+    "foldered": true,
+    "localAssets": [
+      {
+        "name": "cover.jpg",
+        "path": "single/Mona/cover.jpg",
+        "depth": 2,
+        "extension": ".jpg",
+        "isFolder": false,
+        "type": "localAsset"
+      }
+    ],
+    "publishDate": "2024-03-21T00:00:00.000Z",
+    "publishDateUTC": "Thu, 21 Mar 2024 00:00:00 GMT",
+    "publishDateFull": "Thursday, March 21, 2024",
+    "publishDateLong": "March 21, 2024",
+    "publishDateMedium": "Mar 21, 2024",
+    "publishDateShort": "3/21/24",
+    "links": {
+      "previousPost": {
+        "title": "Lisa",
+        "permalink": "/single/lisa.html"
+      },
+      "relevantPosts": [
+        {
+          "title": "Lisa",
+          "permalink": "/single/lisa.html",
+          "category": {
+            "type": "basic",
+            "name": "single",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "singles",
+            "singular": "single",
+            "slug": "single",
+            "permalink": "/single",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/single/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        }
+      ],
+      "mentionedTo": [],
+      "mentionedBy": []
+    }
+  },
+  {
+    "type": "album",
+    "title": "Faerie Journey",
+    "cover": "/album/faerie-journey/kapak.jpg",
+    "media": "",
+    "summary": "",
+    "tags": [],
+    "coverAlt": "The spirit of that music corresponds to the experiences of a fairy who suddenly wakes up in another universe and to the transformational magnificence of her inner world, that feast, that complexity, that tranquility and that emptiness.",
+    "spotify": "https://open.spotify.com/album/7x7TNUMD6FU911gBtGDwXg?si=Z-4aiFcsSIWyIyVQpCCtoA",
+    "date": "11.11.2023",
+    "textColor": "white",
+    "backgroundColor": "palevioletred",
+    "accentColor": "white",
+    "slug": "faerie-journey",
+    "permalink": "/album/faerie-journey",
+    "category": {
+      "type": "basic",
+      "name": "album",
+      "content": "",
+      "summary": "",
+      "mentions": [],
+      "plural": "albums",
+      "singular": "album",
+      "slug": "album",
+      "permalink": "/album",
+      "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/album/index.html",
+      "localAssets": []
+    },
+    "path": "album/Faerie Journey/post.md",
+    "handle": "album/Faerie Journey",
+    "foldered": true,
+    "localAssets": [
+      {
+        "name": "kapak.jpg",
+        "path": "album/Faerie Journey/kapak.jpg",
+        "depth": 2,
+        "extension": ".jpg",
+        "isFolder": false,
+        "type": "localAsset"
+      }
+    ],
+    "publishDate": "2023-11-11T00:00:00.000Z",
+    "publishDateUTC": "Sat, 11 Nov 2023 00:00:00 GMT",
+    "publishDateFull": "Saturday, November 11, 2023",
+    "publishDateLong": "November 11, 2023",
+    "publishDateMedium": "Nov 11, 2023",
+    "publishDateShort": "11/11/23",
+    "links": {
+      "nextPost": {
+        "title": "Feeding the crows by hand",
+        "permalink": "/album/feeding-the-crows-by-hand"
+      },
+      "previousPost": {
+        "title": "The Constant Fear of Being Judged (By You)",
+        "permalink": "/album/the-constant-fear-of-being-judged-by-you"
+      },
+      "relevantPosts": [
+        {
+          "title": "Feeding the crows by hand",
+          "permalink": "/album/feeding-the-crows-by-hand",
+          "category": {
+            "type": "basic",
+            "name": "album",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "albums",
+            "singular": "album",
+            "slug": "album",
+            "permalink": "/album",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/album/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        },
+        {
+          "title": "The Constant Fear of Being Judged (By You)",
+          "permalink": "/album/the-constant-fear-of-being-judged-by-you",
+          "category": {
+            "type": "basic",
+            "name": "album",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "albums",
+            "singular": "album",
+            "slug": "album",
+            "permalink": "/album",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/album/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        }
+      ],
+      "mentionedTo": [],
+      "mentionedBy": []
+    }
+  },
+  {
+    "type": "single",
+    "title": "Lisa",
+    "cover": "",
+    "media": "",
+    "summary": "",
+    "tags": [],
+    "spotify": "https://open.spotify.com/track/1Ma4fLShd0hpZSNH37mEkR",
+    "date": "09.21.2022",
+    "slug": "lisa",
+    "permalink": "/single/lisa.html",
+    "category": {
+      "type": "basic",
+      "name": "single",
+      "content": "",
+      "summary": "",
+      "mentions": [],
+      "plural": "singles",
+      "singular": "single",
+      "slug": "single",
+      "permalink": "/single",
+      "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/single/index.html",
+      "localAssets": []
+    },
+    "path": "single/Lisa.md",
+    "handle": "single/Lisa",
+    "foldered": false,
+    "localAssets": [],
+    "publishDate": "2022-09-20T23:00:00.000Z",
+    "publishDateUTC": "Tue, 20 Sep 2022 23:00:00 GMT",
+    "publishDateFull": "Wednesday, September 21, 2022",
+    "publishDateLong": "September 21, 2022",
+    "publishDateMedium": "Sep 21, 2022",
+    "publishDateShort": "9/21/22",
+    "links": {
+      "nextPost": {
+        "title": "Mona",
+        "permalink": "/single/mona"
+      },
+      "relevantPosts": [
+        {
+          "title": "Mona",
+          "permalink": "/single/mona",
+          "category": {
+            "type": "basic",
+            "name": "single",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "singles",
+            "singular": "single",
+            "slug": "single",
+            "permalink": "/single",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/single/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        }
+      ],
+      "mentionedTo": [],
+      "mentionedBy": []
+    }
+  },
+  {
+    "type": "album",
+    "title": "The Constant Fear of Being Judged (By You)",
+    "cover": "/album/the-constant-fear-of-being-judged-by-you/kapak.jpg",
+    "media": "",
+    "summary": "",
+    "tags": [],
+    "coverAlt": "The spirit of that music corresponds to the experiences of a fairy who suddenly wakes up in another universe and to the transformational magnificence of her inner world, that feast, that complexity, that tranquility and that emptiness.",
+    "spotify": "https://open.spotify.com/album/3q2QE93DNwDhVRxEfEqBtn",
+    "date": "01.10.2020",
+    "textColor": "black",
+    "backgroundColor": "white",
+    "accentColor": "white",
+    "slug": "the-constant-fear-of-being-judged-by-you",
+    "permalink": "/album/the-constant-fear-of-being-judged-by-you",
+    "category": {
+      "type": "basic",
+      "name": "album",
+      "content": "",
+      "summary": "",
+      "mentions": [],
+      "plural": "albums",
+      "singular": "album",
+      "slug": "album",
+      "permalink": "/album",
+      "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/album/index.html",
+      "localAssets": []
+    },
+    "path": "album/The Constant Fear of Being Judged (By You)/post.md",
+    "handle": "album/The Constant Fear of Being Judged (By You)",
+    "foldered": true,
+    "localAssets": [
+      {
+        "name": "kapak.jpg",
+        "path": "album/The Constant Fear of Being Judged (By You)/kapak.jpg",
+        "depth": 2,
+        "extension": ".jpg",
+        "isFolder": false,
+        "type": "localAsset"
+      }
+    ],
+    "publishDate": "2020-01-10T00:00:00.000Z",
+    "publishDateUTC": "Fri, 10 Jan 2020 00:00:00 GMT",
+    "publishDateFull": "Friday, January 10, 2020",
+    "publishDateLong": "January 10, 2020",
+    "publishDateMedium": "Jan 10, 2020",
+    "publishDateShort": "1/10/20",
+    "links": {
+      "nextPost": {
+        "title": "Faerie Journey",
+        "permalink": "/album/faerie-journey"
+      },
+      "relevantPosts": [
+        {
+          "title": "Feeding the crows by hand",
+          "permalink": "/album/feeding-the-crows-by-hand",
+          "category": {
+            "type": "basic",
+            "name": "album",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "albums",
+            "singular": "album",
+            "slug": "album",
+            "permalink": "/album",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/album/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 4
+        },
+        {
+          "title": "Faerie Journey",
+          "permalink": "/album/faerie-journey",
+          "category": {
+            "type": "basic",
+            "name": "album",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "albums",
+            "singular": "album",
+            "slug": "album",
+            "permalink": "/album",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/album/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        }
+      ],
+      "mentionedTo": [],
+      "mentionedBy": []
+    }
+  }
+]
