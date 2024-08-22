@@ -140,12 +140,6 @@
     box-sizing: border-box;
 }
 
-@media (min-height: 321px) {
-    .post {
-        --padding-top: 50dvw;
-    }
-}
-
 @media (min-width: 431px) {
     .post {
         --padding-top: 15dvh;

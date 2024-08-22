@@ -140,12 +140,6 @@
     box-sizing: border-box;
 }
 
-@media (min-height: 321px) {
-    .subpage {
-        --padding-top: 50dvw;
-    }
-}
-
 @media (min-width: 431px) {
     .subpage {
         --padding-top: 15dvh;
