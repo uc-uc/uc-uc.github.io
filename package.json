@@ -1,7 +1,7 @@
 {
-  "name": "upstairs-is-boiling",
+  "name": "uc-uc",
   "version": "1.0.0",
-  "description": "Upstairs is boiling website",
+  "description": "Uç! Uç! website",
   "scripts": {
     "start": "node _scripts/start",
     "build": "node _scripts/build"
