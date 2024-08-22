@@ -84,8 +84,8 @@
     bottom: .5rem;
     left: 50%;
     transform: translateX(-50%);
-    width: clamp(28px, 3rem, 20vw);
-    height: clamp(28px, 3rem, 20vw);
+    width: clamp(80px, 3rem, 20vw);
+    height: clamp(80px, 3rem, 20vw);
     overflow: hidden;
     font-size: 0;
     cursor: pointer;
