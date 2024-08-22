@@ -13,8 +13,7 @@
         <category>album</category>
         <category>concert</category>
         <category>performance</category>
-        <category>single</category>
-        <lastBuildDate>Wed, 21 Aug 2024 06:47:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 07:35:28 GMT</lastBuildDate>
         <copyright>All rights reserved 2024, Uç! Uç!</copyright>
         <docs>https://www.rssboard.org/rss-specification</docs>
         <generator>writ-cms</generator>
@@ -78,17 +77,6 @@
     ]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Mona]]></title>
-            <link>https://ucuc.info/single/mona</link>
-            <guid>https://ucuc.info/single/mona</guid>
-            <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
-            <description><![CDATA[]]></description>
-            <content:encoded><![CDATA[
-      <div><img src="https://ucuc.info/single/mona/cover.jpg" alt="Kapak"></div>
-      
-    ]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[Faerie Journey]]></title>
             <link>https://ucuc.info/album/faerie-journey</link>
             <guid>https://ucuc.info/album/faerie-journey</guid>
@@ -105,14 +93,6 @@
 <p>Everything was composed at that moment and recorded live.</p>
 
     ]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Lisa]]></title>
-            <link>https://ucuc.info/single/lisa.html</link>
-            <guid>https://ucuc.info/single/lisa.html</guid>
-            <pubDate>Tue, 20 Sep 2022 23:00:00 GMT</pubDate>
-            <description><![CDATA[]]></description>
-            <content:encoded><![CDATA[]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[The Constant Fear of Being Judged (By You)]]></title>
