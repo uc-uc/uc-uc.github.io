@@ -20,7 +20,7 @@ can wink at any genre of jazz and world music.
 
 Having released their first album  
 and live session video in 2019,  
-Uç! Uç! followed up with the “Faery Journey” album  
+Uç! Uç! followed up with the “Faerie Journey” album  
 and the “Sadness of Illusion” single in November 2023.   
 In August 2024, they released the album   
 “Feeding the crows by hand”  

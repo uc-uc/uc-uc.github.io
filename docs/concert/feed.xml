@@ -4,7 +4,7 @@
         <title>Uç! Uç! | concert</title>
         <link>https://ucuc.info/concert</link>
         <description>concert category on Uç! Uç!</description>
-        <language>en</language>
+        <language>fi</language>
         <image>
             <title>Uç! Uç!</title>
             <url>https://ucuc.info/assets/common/writ-icon-512.png</url>
@@ -13,7 +13,7 @@
         <category>album</category>
         <category>concert</category>
         <category>performance</category>
-        <lastBuildDate>Thu Aug 22 2024 13:02:21 GMT+0100 (British Summer Time)</lastBuildDate>
+        <lastBuildDate>Thu Aug 22 2024 21:37:50 GMT+0100 (British Summer Time)</lastBuildDate>
         <copyright>All rights reserved 2024, Uç! Uç!</copyright>
         <docs>https://www.rssboard.org/rss-specification</docs>
         <generator>writ-cms</generator>
