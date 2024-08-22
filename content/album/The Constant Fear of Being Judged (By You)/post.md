@@ -6,7 +6,7 @@ coverAlt: "The spirit of that music corresponds to the experiences of a fairy wh
 spotify: https://open.spotify.com/album/3q2QE93DNwDhVRxEfEqBtn
 date: 01.10.2020
 textColor: black
-backgroundColor: white
+backgroundColor: '#edefed'
 accentColor: white
 summary: ''
 ---
