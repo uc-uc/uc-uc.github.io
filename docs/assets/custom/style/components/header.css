@@ -81,7 +81,7 @@
 .header-menu-button {
     position: absolute;
     z-index: 2;
-    bottom: .5rem;
+    bottom: -2.7rem;
     left: 50%;
     transform: translateX(-50%);
     width: clamp(80px, 3rem, 20vw);
