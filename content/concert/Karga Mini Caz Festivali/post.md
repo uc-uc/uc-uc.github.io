@@ -18,19 +18,18 @@ Konser | Concert | Konzert | حفلة موسيقية | концерт
 28 Aralık’ta İstanbul’da olanlar,  
 Yılbaşını kutlayacaklar, yılbaşını kutlamayacaklar,  
 Keyfi yerindeler, keyfi kaçmışlar,   
-Huzur bulmak isteyenler, huzurunu kaybetmek isteyenler,  
+Huzur bulmak isteyenler, huzurunu paylaşmak isteyenler,  
 Dans edecekler, dans etmeyecekler,  
 Gidişattan memnun olanlar, kendini atıvermek üzere olanlar,  
 Dervişler, ermişler, dervemişler, ermemişler,  
 Müzik dinlemek isteyenler, müziğe katılmak isteyenler,  
 Ne yapacağını bilemeyenler, kime sorsak, kendimizi nereye atsak diyenler…
 
-Bütün bunları beraberce yapabilmek için bir araya geliyoruz,  
-kurabiyeler, fotoğraflar, kıyafetlerle birlikte hazırladığımız stantlar da içinde kurulu,  
+Bütün bunları beraberce yapabilmek için bir araya geliyoruz,
 
+kurabiyeler, fotoğraflar, kıyafetlerle birlikte hazırladığımız stantlar da içinde kurulu,  
 Kadıköy’ün kabullenici, açık ve en kolektif mekanlarından birinde,  
-bizim için neredeyse bir ev toplantısı,  
-@kargakadikoy’de;  
+bizim için neredeyse bir ev toplantısı, @kargakadikoy’de;  
 Orta Halli Yılbaşı Partisi,  
 Kendi aramızda Mini Caz Festivali’ne  
 sizleri davet ediyoruz.   
