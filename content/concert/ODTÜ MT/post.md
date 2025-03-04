@@ -1,6 +1,6 @@
 ---
 date: 11.29.2024
-backgroundColor: '#194a31'
+backgroundColor: '#2d4d8c'
 textColor: '#d9d9d9'
 accentColor: palevioletred
 summary: ''
