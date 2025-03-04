@@ -14,12 +14,6 @@
     <section class="grid-card grid-card-wide">
       <div class="post-content">
 
-        {{#if cover}}
-          <a href="{{cover}}" target="_blank" class="post-cover {{#if coverStyle}}style-{{coverStyle}}{{/if}}">
-            <img class="post-cover-image" src="{{cover}}" alt="{{coverAlt}}">
-          </a>
-        {{/if}}
-
         {{> @partial-block .. }}
 
         {{#if spotify}}
