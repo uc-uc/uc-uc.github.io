@@ -46,7 +46,238 @@
     "publishDateMedium": "Dec 28, 2024",
     "publishDateShort": "12/28/24",
     "links": {
-      "relevantPosts": [],
+      "previousPost": {
+        "title": "ODTÜ MT",
+        "permalink": "/concert/odtu-mt"
+      },
+      "relevantPosts": [
+        {
+          "title": "ODTÜ MT",
+          "permalink": "/concert/odtu-mt",
+          "category": {
+            "type": "basic",
+            "name": "concert",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "concerts",
+            "singular": "concert",
+            "slug": "concert",
+            "permalink": "/concert",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        },
+        {
+          "title": "Müze Gazhane",
+          "permalink": "/concert/muze-gazhane",
+          "category": {
+            "type": "basic",
+            "name": "concert",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "concerts",
+            "singular": "concert",
+            "slug": "concert",
+            "permalink": "/concert",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        }
+      ],
+      "mentionedTo": [],
+      "mentionedBy": []
+    }
+  },
+  {
+    "type": "text",
+    "title": "ODTÜ MT",
+    "cover": "/concert/odtu-mt/odtu.png",
+    "media": "",
+    "summary": "",
+    "tags": [],
+    "date": "11.29.2024",
+    "backgroundColor": "#194a31",
+    "textColor": "#d9d9d9",
+    "accentColor": "palevioletred",
+    "order": 100,
+    "slug": "odtu-mt",
+    "permalink": "/concert/odtu-mt",
+    "category": {
+      "type": "basic",
+      "name": "concert",
+      "content": "",
+      "summary": "",
+      "mentions": [],
+      "plural": "concerts",
+      "singular": "concert",
+      "slug": "concert",
+      "permalink": "/concert",
+      "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
+      "localAssets": []
+    },
+    "path": "concert/ODTÜ MT/post.md",
+    "handle": "concert/ODTÜ MT",
+    "foldered": true,
+    "localAssets": [
+      {
+        "name": "odtu.png",
+        "path": "concert/ODTÜ MT/odtu.png",
+        "depth": 2,
+        "extension": ".png",
+        "isFolder": false,
+        "type": "localAsset"
+      }
+    ],
+    "publishDate": "2024-11-29T00:00:00.000Z",
+    "publishDateUTC": "Fri, 29 Nov 2024 00:00:00 GMT",
+    "publishDateFull": "Friday, November 29, 2024",
+    "publishDateLong": "November 29, 2024",
+    "publishDateMedium": "Nov 29, 2024",
+    "publishDateShort": "11/29/24",
+    "links": {
+      "nextPost": {
+        "title": "Karga Mini Caz Festivali",
+        "permalink": "/concert/karga-mini-caz-festivali"
+      },
+      "previousPost": {
+        "title": "Müze Gazhane",
+        "permalink": "/concert/muze-gazhane"
+      },
+      "relevantPosts": [
+        {
+          "title": "Karga Mini Caz Festivali",
+          "permalink": "/concert/karga-mini-caz-festivali",
+          "category": {
+            "type": "basic",
+            "name": "concert",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "concerts",
+            "singular": "concert",
+            "slug": "concert",
+            "permalink": "/concert",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        },
+        {
+          "title": "Müze Gazhane",
+          "permalink": "/concert/muze-gazhane",
+          "category": {
+            "type": "basic",
+            "name": "concert",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "concerts",
+            "singular": "concert",
+            "slug": "concert",
+            "permalink": "/concert",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        }
+      ],
+      "mentionedTo": [],
+      "mentionedBy": []
+    }
+  },
+  {
+    "type": "text",
+    "title": "Müze Gazhane",
+    "cover": "/concert/muze-gazhane/gazhane.png",
+    "media": "",
+    "summary": "",
+    "tags": [],
+    "date": "09.18.2024",
+    "backgroundColor": "#2D4D8C",
+    "textColor": "#d9d9d9",
+    "accentColor": "palevioletred",
+    "order": 100,
+    "slug": "muze-gazhane",
+    "permalink": "/concert/muze-gazhane",
+    "category": {
+      "type": "basic",
+      "name": "concert",
+      "content": "",
+      "summary": "",
+      "mentions": [],
+      "plural": "concerts",
+      "singular": "concert",
+      "slug": "concert",
+      "permalink": "/concert",
+      "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
+      "localAssets": []
+    },
+    "path": "concert/Müze Gazhane/post.md",
+    "handle": "concert/Müze Gazhane",
+    "foldered": true,
+    "localAssets": [
+      {
+        "name": "gazhane.png",
+        "path": "concert/Müze Gazhane/gazhane.png",
+        "depth": 2,
+        "extension": ".png",
+        "isFolder": false,
+        "type": "localAsset"
+      }
+    ],
+    "publishDate": "2024-09-17T23:00:00.000Z",
+    "publishDateUTC": "Tue, 17 Sep 2024 23:00:00 GMT",
+    "publishDateFull": "Wednesday, September 18, 2024",
+    "publishDateLong": "September 18, 2024",
+    "publishDateMedium": "Sep 18, 2024",
+    "publishDateShort": "9/18/24",
+    "links": {
+      "nextPost": {
+        "title": "ODTÜ MT",
+        "permalink": "/concert/odtu-mt"
+      },
+      "relevantPosts": [
+        {
+          "title": "Karga Mini Caz Festivali",
+          "permalink": "/concert/karga-mini-caz-festivali",
+          "category": {
+            "type": "basic",
+            "name": "concert",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "concerts",
+            "singular": "concert",
+            "slug": "concert",
+            "permalink": "/concert",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        },
+        {
+          "title": "ODTÜ MT",
+          "permalink": "/concert/odtu-mt",
+          "category": {
+            "type": "basic",
+            "name": "concert",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "concerts",
+            "singular": "concert",
+            "slug": "concert",
+            "permalink": "/concert",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        }
+      ],
       "mentionedTo": [],
       "mentionedBy": []
     }
