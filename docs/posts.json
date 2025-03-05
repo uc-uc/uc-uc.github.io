@@ -2,7 +2,7 @@
   {
     "type": "text",
     "title": "Karga Mini Caz Festivali",
-    "cover": "/concert/karga-mini-caz-festivali/karga.jpg",
+    "cover": "/concert/karga-mini-caz-festivali/karga.webp",
     "media": "",
     "summary": "",
     "tags": [],
@@ -31,10 +31,10 @@
     "foldered": true,
     "localAssets": [
       {
-        "name": "karga.jpg",
-        "path": "concert/Karga Mini Caz Festivali/karga.jpg",
+        "name": "karga.webp",
+        "path": "concert/Karga Mini Caz Festivali/karga.webp",
         "depth": 2,
-        "extension": ".jpg",
+        "extension": ".webp",
         "isFolder": false,
         "type": "localAsset"
       }

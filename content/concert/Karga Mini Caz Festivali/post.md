@@ -4,7 +4,7 @@ backgroundColor: '#4f1519'
 textColor: '#faead6'
 accentColor: palevioletred
 summary: ''
-cover: 'karga.jpg'
+cover: 'karga.webp'
 order: 100
 ---
 28 Aralık’ta tam da sene kendisini bir sonrakine devirmeden, insanların ümitleri bir sonraki seneye devretmeden bir kaç gün önce,  
