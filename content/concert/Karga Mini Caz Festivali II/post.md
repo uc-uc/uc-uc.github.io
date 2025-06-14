@@ -12,7 +12,7 @@ Konser | Concert | Konzert | حفلة موسيقية | концерт
 26 Haziran Perşembe 
 @kargakadikoy
 
-#Lineup 
+#Lineup  
 UÇ! UÇ!  
 Şu Güzel İnsanlar  
 Upstairs is Boiling  
