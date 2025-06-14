@@ -1,5 +1,117 @@
 [
   {
+    "type": "album",
+    "title": "No Prisoners",
+    "cover": "/album/no-prisoners/kapak.jpg",
+    "media": "",
+    "summary": "",
+    "tags": [],
+    "coverAlt": "Recorded in our studio in 2024, our first fully made in-house album is out! and we took no prisoners!",
+    "spotify": "https://open.spotify.com/album/5RrCTkH6abqbRHKHk3LQnB?si=cQRUnjpTR1CUoYcsId6pPQ",
+    "date": "05.16.2025",
+    "textColor": "white",
+    "backgroundColor": "#182f37",
+    "accentColor": "white",
+    "slug": "no-prisoners",
+    "permalink": "/album/no-prisoners",
+    "category": {
+      "type": "basic",
+      "name": "album",
+      "content": "",
+      "summary": "",
+      "mentions": [],
+      "plural": "albums",
+      "singular": "album",
+      "slug": "album",
+      "permalink": "/album",
+      "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/album/index.html",
+      "localAssets": []
+    },
+    "path": "album/No Prisoners/post.md",
+    "handle": "album/No Prisoners",
+    "foldered": true,
+    "localAssets": [
+      {
+        "name": "kapak.jpg",
+        "path": "album/No Prisoners/kapak.jpg",
+        "depth": 2,
+        "extension": ".jpg",
+        "isFolder": false,
+        "type": "localAsset"
+      }
+    ],
+    "publishDate": "2025-05-15T21:00:00.000Z",
+    "publishDateUTC": "Thu, 15 May 2025 21:00:00 GMT",
+    "publishDateFull": "Friday, May 16, 2025",
+    "publishDateLong": "May 16, 2025",
+    "publishDateMedium": "May 16, 2025",
+    "publishDateShort": "5/16/25",
+    "links": {
+      "previousPost": {
+        "title": "Feeding the crows by hand",
+        "permalink": "/album/feeding-the-crows-by-hand"
+      },
+      "relevantPosts": [
+        {
+          "title": "Feeding the crows by hand",
+          "permalink": "/album/feeding-the-crows-by-hand",
+          "category": {
+            "type": "basic",
+            "name": "album",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "albums",
+            "singular": "album",
+            "slug": "album",
+            "permalink": "/album",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/album/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        },
+        {
+          "title": "Faerie Journey",
+          "permalink": "/album/faerie-journey",
+          "category": {
+            "type": "basic",
+            "name": "album",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "albums",
+            "singular": "album",
+            "slug": "album",
+            "permalink": "/album",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/album/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        },
+        {
+          "title": "The Constant Fear of Being Judged (By You)",
+          "permalink": "/album/the-constant-fear-of-being-judged-by-you",
+          "category": {
+            "type": "basic",
+            "name": "album",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "albums",
+            "singular": "album",
+            "slug": "album",
+            "permalink": "/album",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/album/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        }
+      ],
+      "mentionedTo": [],
+      "mentionedBy": []
+    }
+  },
+  {
     "type": "text",
     "title": "Karga Mini Caz Festivali",
     "cover": "/concert/karga-mini-caz-festivali/karga.webp",
@@ -39,8 +151,8 @@
         "type": "localAsset"
       }
     ],
-    "publishDate": "2024-12-28T00:00:00.000Z",
-    "publishDateUTC": "Sat, 28 Dec 2024 00:00:00 GMT",
+    "publishDate": "2024-12-27T21:00:00.000Z",
+    "publishDateUTC": "Fri, 27 Dec 2024 21:00:00 GMT",
     "publishDateFull": "Saturday, December 28, 2024",
     "publishDateLong": "December 28, 2024",
     "publishDateMedium": "Dec 28, 2024",
@@ -132,8 +244,8 @@
         "type": "localAsset"
       }
     ],
-    "publishDate": "2024-11-29T00:00:00.000Z",
-    "publishDateUTC": "Fri, 29 Nov 2024 00:00:00 GMT",
+    "publishDate": "2024-11-28T21:00:00.000Z",
+    "publishDateUTC": "Thu, 28 Nov 2024 21:00:00 GMT",
     "publishDateFull": "Friday, November 29, 2024",
     "publishDateLong": "November 29, 2024",
     "publishDateMedium": "Nov 29, 2024",
@@ -229,8 +341,8 @@
         "type": "localAsset"
       }
     ],
-    "publishDate": "2024-09-17T23:00:00.000Z",
-    "publishDateUTC": "Tue, 17 Sep 2024 23:00:00 GMT",
+    "publishDate": "2024-09-17T21:00:00.000Z",
+    "publishDateUTC": "Tue, 17 Sep 2024 21:00:00 GMT",
     "publishDateFull": "Wednesday, September 18, 2024",
     "publishDateLong": "September 18, 2024",
     "publishDateMedium": "Sep 18, 2024",
@@ -328,13 +440,17 @@
         "type": "localAsset"
       }
     ],
-    "publishDate": "2024-08-17T23:00:00.000Z",
-    "publishDateUTC": "Sat, 17 Aug 2024 23:00:00 GMT",
+    "publishDate": "2024-08-17T21:00:00.000Z",
+    "publishDateUTC": "Sat, 17 Aug 2024 21:00:00 GMT",
     "publishDateFull": "Sunday, August 18, 2024",
     "publishDateLong": "August 18, 2024",
     "publishDateMedium": "Aug 18, 2024",
     "publishDateShort": "8/18/24",
     "links": {
+      "nextPost": {
+        "title": "No Prisoners",
+        "permalink": "/album/no-prisoners"
+      },
       "previousPost": {
         "title": "Faerie Journey",
         "permalink": "/album/faerie-journey"
@@ -357,6 +473,24 @@
             "localAssets": []
           },
           "relevancyScore": 4
+        },
+        {
+          "title": "No Prisoners",
+          "permalink": "/album/no-prisoners",
+          "category": {
+            "type": "basic",
+            "name": "album",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "albums",
+            "singular": "album",
+            "slug": "album",
+            "permalink": "/album",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/album/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
         },
         {
           "title": "Faerie Journey",
@@ -421,8 +555,8 @@
         "type": "localAsset"
       }
     ],
-    "publishDate": "2024-08-14T23:00:00.000Z",
-    "publishDateUTC": "Wed, 14 Aug 2024 23:00:00 GMT",
+    "publishDate": "2024-08-14T21:00:00.000Z",
+    "publishDateUTC": "Wed, 14 Aug 2024 21:00:00 GMT",
     "publishDateFull": "Thursday, August 15, 2024",
     "publishDateLong": "August 15, 2024",
     "publishDateMedium": "Aug 15, 2024",
@@ -474,8 +608,8 @@
         "type": "localAsset"
       }
     ],
-    "publishDate": "2023-11-11T00:00:00.000Z",
-    "publishDateUTC": "Sat, 11 Nov 2023 00:00:00 GMT",
+    "publishDate": "2023-11-10T21:00:00.000Z",
+    "publishDateUTC": "Fri, 10 Nov 2023 21:00:00 GMT",
     "publishDateFull": "Saturday, November 11, 2023",
     "publishDateLong": "November 11, 2023",
     "publishDateMedium": "Nov 11, 2023",
@@ -490,6 +624,24 @@
         "permalink": "/album/the-constant-fear-of-being-judged-by-you"
       },
       "relevantPosts": [
+        {
+          "title": "No Prisoners",
+          "permalink": "/album/no-prisoners",
+          "category": {
+            "type": "basic",
+            "name": "album",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "albums",
+            "singular": "album",
+            "slug": "album",
+            "permalink": "/album",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/album/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        },
         {
           "title": "Feeding the crows by hand",
           "permalink": "/album/feeding-the-crows-by-hand",
@@ -572,8 +724,8 @@
         "type": "localAsset"
       }
     ],
-    "publishDate": "2020-01-10T00:00:00.000Z",
-    "publishDateUTC": "Fri, 10 Jan 2020 00:00:00 GMT",
+    "publishDate": "2020-01-09T21:00:00.000Z",
+    "publishDateUTC": "Thu, 09 Jan 2020 21:00:00 GMT",
     "publishDateFull": "Friday, January 10, 2020",
     "publishDateLong": "January 10, 2020",
     "publishDateMedium": "Jan 10, 2020",
@@ -601,6 +753,24 @@
             "localAssets": []
           },
           "relevancyScore": 4
+        },
+        {
+          "title": "No Prisoners",
+          "permalink": "/album/no-prisoners",
+          "category": {
+            "type": "basic",
+            "name": "album",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "albums",
+            "singular": "album",
+            "slug": "album",
+            "permalink": "/album",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/album/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
         },
         {
           "title": "Faerie Journey",

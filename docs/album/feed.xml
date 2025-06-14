@@ -13,16 +13,35 @@
         <category>album</category>
         <category>concert</category>
         <category>performance</category>
-        <lastBuildDate>Wed Mar 05 2025 09:05:12 GMT+0000 (Greenwich Mean Time)</lastBuildDate>
+        <lastBuildDate>Sat Jun 14 2025 12:27:52 GMT+0300 (GMT+03:00)</lastBuildDate>
         <copyright>All rights reserved 2024, Uç! Uç!</copyright>
         <docs>https://www.rssboard.org/rss-specification</docs>
         <generator>writ-cms</generator>
         <atom:link href="https://ucuc.info/album/feed.xml" rel="self" type="application/rss+xml" />
         <item>
+            <title><![CDATA[No Prisoners]]></title>
+            <link>https://ucuc.info/album/no-prisoners</link>
+            <guid>https://ucuc.info/album/no-prisoners</guid>
+            <pubDate>Thu, 15 May 2025 21:00:00 GMT</pubDate>
+            <description><![CDATA[]]></description>
+            <content:encoded><![CDATA[
+      <div><img src="https://ucuc.info/album/no-prisoners/kapak.jpg" alt="Recorded in our studio in 2024, our first fully made in-house album is out! and we took no prisoners!"></div>
+      <p>Recorded in our studio in 2024, our first fully made in-house album is out! and we took no prisoners!</p>
+<p>[TR]
+Bu albümü stüdyomuzda 2024&#39;ün kış aylarında kaydettik.</p>
+<p>Kendiliğinden oluşan, beklentisiz bir müzik ortaya çıktı.</p>
+<p>Albümün adını No Prisoner’s koyduk.<br>“Gözünün yaşına bakmıyor” olarak çevrilebilecek bir tabir.<br>Kendi gözümüzün bile yaşına bakmadığımızdan olabilir.<br>Müzik ile ilgili bütün fikirlerin unutulduğu bir anda ne ortaya çıkabilir? Keşfin ardında bizim için o günlerde ne varsa, müzikte o ortaya çıktı.  </p>
+<p>Albümün kapak fotoğrafı ODTÜ konserimizde bizi fotoğraflayan @datleus ‘a ait.</p>
+<p>Sevgiler ve selamlar 🌳🌎 </p>
+<p>Davullar: Mustafa Kemal Emirel @kemalemirel<br>Elektronikler, synthler: Tarık Akyol @tarikakyo<br>Piyano ve synthler: Onur Nevşehir @onurnevsehir<br>Teşekkürler: Volkan Berk, @ercanbektasulger  </p>
+
+    ]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Feeding the crows by hand]]></title>
             <link>https://ucuc.info/album/feeding-the-crows-by-hand</link>
             <guid>https://ucuc.info/album/feeding-the-crows-by-hand</guid>
-            <pubDate>Sat, 17 Aug 2024 23:00:00 GMT</pubDate>
+            <pubDate>Sat, 17 Aug 2024 21:00:00 GMT</pubDate>
             <description><![CDATA[]]></description>
             <content:encoded><![CDATA[
       <div><img src="https://ucuc.info/album/feeding-the-crows-by-hand/kapak.png" alt="Our live performance album, recorded at Yuva, one of the most special venues in Kadıköy, at Karga, has been released."></div>
@@ -39,7 +58,7 @@
             <title><![CDATA[Faerie Journey]]></title>
             <link>https://ucuc.info/album/faerie-journey</link>
             <guid>https://ucuc.info/album/faerie-journey</guid>
-            <pubDate>Sat, 11 Nov 2023 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 10 Nov 2023 21:00:00 GMT</pubDate>
             <description><![CDATA[]]></description>
             <content:encoded><![CDATA[
       <div><img src="https://ucuc.info/album/faerie-journey/kapak.jpg" alt="The spirit of that music corresponds to the experiences of a fairy who suddenly wakes up in another universe and to the transformational magnificence of her inner world, that feast, that complexity, that tranquility and that emptiness."></div>
@@ -57,7 +76,7 @@
             <title><![CDATA[The Constant Fear of Being Judged (By You)]]></title>
             <link>https://ucuc.info/album/the-constant-fear-of-being-judged-by-you</link>
             <guid>https://ucuc.info/album/the-constant-fear-of-being-judged-by-you</guid>
-            <pubDate>Fri, 10 Jan 2020 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 09 Jan 2020 21:00:00 GMT</pubDate>
             <description><![CDATA[]]></description>
             <content:encoded><![CDATA[
       <div><img src="https://ucuc.info/album/the-constant-fear-of-being-judged-by-you/kapak.jpg" alt="The spirit of that music corresponds to the experiences of a fairy who suddenly wakes up in another universe and to the transformational magnificence of her inner world, that feast, that complexity, that tranquility and that emptiness."></div>

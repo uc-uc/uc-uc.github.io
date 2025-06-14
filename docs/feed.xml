@@ -13,16 +13,35 @@
         <category>album</category>
         <category>concert</category>
         <category>performance</category>
-        <lastBuildDate>Wed, 05 Mar 2025 09:05:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Jun 2025 09:27:52 GMT</lastBuildDate>
         <copyright>All rights reserved 2024, Uç! Uç!</copyright>
         <docs>https://www.rssboard.org/rss-specification</docs>
         <generator>writ-cms</generator>
         <atom:link href="https://ucuc.info/feed.xml" rel="self" type="application/rss+xml" />
         <item>
+            <title><![CDATA[No Prisoners]]></title>
+            <link>https://ucuc.info/album/no-prisoners</link>
+            <guid>https://ucuc.info/album/no-prisoners</guid>
+            <pubDate>Thu, 15 May 2025 21:00:00 GMT</pubDate>
+            <description><![CDATA[]]></description>
+            <content:encoded><![CDATA[
+      <div><img src="https://ucuc.info/album/no-prisoners/kapak.jpg" alt="Recorded in our studio in 2024, our first fully made in-house album is out! and we took no prisoners!"></div>
+      <p>Recorded in our studio in 2024, our first fully made in-house album is out! and we took no prisoners!</p>
+<p>[TR]
+Bu albümü stüdyomuzda 2024&#39;ün kış aylarında kaydettik.</p>
+<p>Kendiliğinden oluşan, beklentisiz bir müzik ortaya çıktı.</p>
+<p>Albümün adını No Prisoner’s koyduk.<br>“Gözünün yaşına bakmıyor” olarak çevrilebilecek bir tabir.<br>Kendi gözümüzün bile yaşına bakmadığımızdan olabilir.<br>Müzik ile ilgili bütün fikirlerin unutulduğu bir anda ne ortaya çıkabilir? Keşfin ardında bizim için o günlerde ne varsa, müzikte o ortaya çıktı.  </p>
+<p>Albümün kapak fotoğrafı ODTÜ konserimizde bizi fotoğraflayan @datleus ‘a ait.</p>
+<p>Sevgiler ve selamlar 🌳🌎 </p>
+<p>Davullar: Mustafa Kemal Emirel @kemalemirel<br>Elektronikler, synthler: Tarık Akyol @tarikakyo<br>Piyano ve synthler: Onur Nevşehir @onurnevsehir<br>Teşekkürler: Volkan Berk, @ercanbektasulger  </p>
+
+    ]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[Karga Mini Caz Festivali]]></title>
             <link>https://ucuc.info/concert/karga-mini-caz-festivali</link>
             <guid>https://ucuc.info/concert/karga-mini-caz-festivali</guid>
-            <pubDate>Sat, 28 Dec 2024 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 27 Dec 2024 21:00:00 GMT</pubDate>
             <description><![CDATA[]]></description>
             <content:encoded><![CDATA[
       <div><img src="https://ucuc.info/concert/karga-mini-caz-festivali/karga.webp" alt="undefined"></div>
@@ -39,7 +58,7 @@
             <title><![CDATA[ODTÜ MT]]></title>
             <link>https://ucuc.info/concert/odtu-mt</link>
             <guid>https://ucuc.info/concert/odtu-mt</guid>
-            <pubDate>Fri, 29 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 28 Nov 2024 21:00:00 GMT</pubDate>
             <description><![CDATA[]]></description>
             <content:encoded><![CDATA[
       <div><img src="https://ucuc.info/concert/odtu-mt/odtu.png" alt="undefined"></div>
@@ -54,7 +73,7 @@ ihtiyacımız olan amatör ruhu, nezaketi ve dayanışmayı tekrar hatırlattıl
             <title><![CDATA[Müze Gazhane]]></title>
             <link>https://ucuc.info/concert/muze-gazhane</link>
             <guid>https://ucuc.info/concert/muze-gazhane</guid>
-            <pubDate>Tue, 17 Sep 2024 23:00:00 GMT</pubDate>
+            <pubDate>Tue, 17 Sep 2024 21:00:00 GMT</pubDate>
             <description><![CDATA[]]></description>
             <content:encoded><![CDATA[
       <div><img src="https://ucuc.info/concert/muze-gazhane/gazhane.png" alt="undefined"></div>
@@ -68,7 +87,7 @@ ihtiyacımız olan amatör ruhu, nezaketi ve dayanışmayı tekrar hatırlattıl
             <title><![CDATA[Feeding the crows by hand]]></title>
             <link>https://ucuc.info/album/feeding-the-crows-by-hand</link>
             <guid>https://ucuc.info/album/feeding-the-crows-by-hand</guid>
-            <pubDate>Sat, 17 Aug 2024 23:00:00 GMT</pubDate>
+            <pubDate>Sat, 17 Aug 2024 21:00:00 GMT</pubDate>
             <description><![CDATA[]]></description>
             <content:encoded><![CDATA[
       <div><img src="https://ucuc.info/album/feeding-the-crows-by-hand/kapak.png" alt="Our live performance album, recorded at Yuva, one of the most special venues in Kadıköy, at Karga, has been released."></div>
@@ -85,7 +104,7 @@ ihtiyacımız olan amatör ruhu, nezaketi ve dayanışmayı tekrar hatırlattıl
             <title><![CDATA[Live at Yuva]]></title>
             <link>https://ucuc.info/performance/live-at-yuva</link>
             <guid>https://ucuc.info/performance/live-at-yuva</guid>
-            <pubDate>Wed, 14 Aug 2024 23:00:00 GMT</pubDate>
+            <pubDate>Wed, 14 Aug 2024 21:00:00 GMT</pubDate>
             <description><![CDATA[]]></description>
             <content:encoded><![CDATA[<p>Everything you see and hear in this performance is created and performed &#39;right then and there.&#39;<br>It cannot be repeated and could not have been predicted beforehand.<br>Music thrives when no one knows anything about it beforehand.</p>
 <p><img src="https://ucuc.info/performance/live-at-yuva/IMG.JPG" alt="Photo showing the Uc! Uc! performing at Yuva"></p>
@@ -104,7 +123,7 @@ ihtiyacımız olan amatör ruhu, nezaketi ve dayanışmayı tekrar hatırlattıl
             <title><![CDATA[Faerie Journey]]></title>
             <link>https://ucuc.info/album/faerie-journey</link>
             <guid>https://ucuc.info/album/faerie-journey</guid>
-            <pubDate>Sat, 11 Nov 2023 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 10 Nov 2023 21:00:00 GMT</pubDate>
             <description><![CDATA[]]></description>
             <content:encoded><![CDATA[
       <div><img src="https://ucuc.info/album/faerie-journey/kapak.jpg" alt="The spirit of that music corresponds to the experiences of a fairy who suddenly wakes up in another universe and to the transformational magnificence of her inner world, that feast, that complexity, that tranquility and that emptiness."></div>
@@ -122,7 +141,7 @@ ihtiyacımız olan amatör ruhu, nezaketi ve dayanışmayı tekrar hatırlattıl
             <title><![CDATA[The Constant Fear of Being Judged (By You)]]></title>
             <link>https://ucuc.info/album/the-constant-fear-of-being-judged-by-you</link>
             <guid>https://ucuc.info/album/the-constant-fear-of-being-judged-by-you</guid>
-            <pubDate>Fri, 10 Jan 2020 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 09 Jan 2020 21:00:00 GMT</pubDate>
             <description><![CDATA[]]></description>
             <content:encoded><![CDATA[
       <div><img src="https://ucuc.info/album/the-constant-fear-of-being-judged-by-you/kapak.jpg" alt="The spirit of that music corresponds to the experiences of a fairy who suddenly wakes up in another universe and to the transformational magnificence of her inner world, that feast, that complexity, that tranquility and that emptiness."></div>
