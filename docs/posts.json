@@ -1,5 +1,116 @@
 [
   {
+    "type": "text",
+    "title": "Karga Mini Caz Festivali II",
+    "cover": "/concert/karga-mini-caz-festivali-ii/karga.jpg",
+    "media": "",
+    "summary": "",
+    "tags": [],
+    "date": "06.26.2025",
+    "backgroundColor": "#10111e",
+    "textColor": "#faead6",
+    "accentColor": "palevioletred",
+    "order": 100,
+    "slug": "karga-mini-caz-festivali-ii",
+    "permalink": "/concert/karga-mini-caz-festivali-ii",
+    "category": {
+      "type": "basic",
+      "name": "concert",
+      "content": "",
+      "summary": "",
+      "mentions": [],
+      "plural": "concerts",
+      "singular": "concert",
+      "slug": "concert",
+      "permalink": "/concert",
+      "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
+      "localAssets": []
+    },
+    "path": "concert/Karga Mini Caz Festivali II/post.md",
+    "handle": "concert/Karga Mini Caz Festivali II",
+    "foldered": true,
+    "localAssets": [
+      {
+        "name": "karga.jpg",
+        "path": "concert/Karga Mini Caz Festivali II/karga.jpg",
+        "depth": 2,
+        "extension": ".jpg",
+        "isFolder": false,
+        "type": "localAsset"
+      }
+    ],
+    "publishDate": "2025-06-25T21:00:00.000Z",
+    "publishDateUTC": "Wed, 25 Jun 2025 21:00:00 GMT",
+    "publishDateFull": "Thursday, June 26, 2025",
+    "publishDateLong": "June 26, 2025",
+    "publishDateMedium": "Jun 26, 2025",
+    "publishDateShort": "6/26/25",
+    "links": {
+      "previousPost": {
+        "title": "Karga Mini Caz Festivali",
+        "permalink": "/concert/karga-mini-caz-festivali"
+      },
+      "relevantPosts": [
+        {
+          "title": "Karga Mini Caz Festivali",
+          "permalink": "/concert/karga-mini-caz-festivali",
+          "category": {
+            "type": "basic",
+            "name": "concert",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "concerts",
+            "singular": "concert",
+            "slug": "concert",
+            "permalink": "/concert",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 7
+        },
+        {
+          "title": "ODTÜ MT",
+          "permalink": "/concert/odtu-mt",
+          "category": {
+            "type": "basic",
+            "name": "concert",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "concerts",
+            "singular": "concert",
+            "slug": "concert",
+            "permalink": "/concert",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        },
+        {
+          "title": "Müze Gazhane",
+          "permalink": "/concert/muze-gazhane",
+          "category": {
+            "type": "basic",
+            "name": "concert",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "concerts",
+            "singular": "concert",
+            "slug": "concert",
+            "permalink": "/concert",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        }
+      ],
+      "mentionedTo": [],
+      "mentionedBy": []
+    }
+  },
+  {
     "type": "album",
     "title": "No Prisoners",
     "cover": "/album/no-prisoners/kapak.jpg",
@@ -158,11 +269,33 @@
     "publishDateMedium": "Dec 28, 2024",
     "publishDateShort": "12/28/24",
     "links": {
+      "nextPost": {
+        "title": "Karga Mini Caz Festivali II",
+        "permalink": "/concert/karga-mini-caz-festivali-ii"
+      },
       "previousPost": {
         "title": "ODTÜ MT",
         "permalink": "/concert/odtu-mt"
       },
       "relevantPosts": [
+        {
+          "title": "Karga Mini Caz Festivali II",
+          "permalink": "/concert/karga-mini-caz-festivali-ii",
+          "category": {
+            "type": "basic",
+            "name": "concert",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "concerts",
+            "singular": "concert",
+            "slug": "concert",
+            "permalink": "/concert",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 7
+        },
         {
           "title": "ODTÜ MT",
           "permalink": "/concert/odtu-mt",
@@ -261,6 +394,24 @@
       },
       "relevantPosts": [
         {
+          "title": "Karga Mini Caz Festivali II",
+          "permalink": "/concert/karga-mini-caz-festivali-ii",
+          "category": {
+            "type": "basic",
+            "name": "concert",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "concerts",
+            "singular": "concert",
+            "slug": "concert",
+            "permalink": "/concert",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        },
+        {
           "title": "Karga Mini Caz Festivali",
           "permalink": "/concert/karga-mini-caz-festivali",
           "category": {
@@ -353,6 +504,24 @@
         "permalink": "/concert/odtu-mt"
       },
       "relevantPosts": [
+        {
+          "title": "Karga Mini Caz Festivali II",
+          "permalink": "/concert/karga-mini-caz-festivali-ii",
+          "category": {
+            "type": "basic",
+            "name": "concert",
+            "content": "",
+            "summary": "",
+            "mentions": [],
+            "plural": "concerts",
+            "singular": "concert",
+            "slug": "concert",
+            "permalink": "/concert",
+            "outputPath": "/Users/tarikakyol/Developer/Reforestation/Code/uc-uc.github.io/docs/concert/index.html",
+            "localAssets": []
+          },
+          "relevancyScore": 3
+        },
         {
           "title": "Karga Mini Caz Festivali",
           "permalink": "/concert/karga-mini-caz-festivali",
