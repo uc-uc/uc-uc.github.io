@@ -31,4 +31,4 @@ Bize stantlarda katılmak isteyen sanatçı dostlarımızı da yakında duyuraca
 ♡♡
 
 <script async src="https://www.instagram.com/embed.js"></script>
-<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DKkRjdPM_JQ" data-instgrm-version="14" style="background:#000; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; min-width:326px; padding:0; width:99.375%;width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"></blockquote>
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DLpEmmRs-9y" data-instgrm-version="14" style="background:#000; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; min-width:326px; padding:0; width:99.375%;width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"></blockquote>
